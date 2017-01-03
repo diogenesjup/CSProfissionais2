@@ -70,9 +70,14 @@
     <icon src="images/icon/icon-72.png"            gap:platform="ios"        width="72" height="72" />
     <icon src="images/icon/icon-57-2x.png"         gap:platform="ios"        width="114" height="114" />
     <icon src="images/icon/icon-72-2x.png"         gap:platform="ios"        width="144" height="144" />
-    <icon src="images/icon/icon-64.png"          gap:platform="webos" />
-    <icon src="images/icon/icon-48.png"  gap:platform="winphone" />
-    <icon src="images/icon/icon-173.png" gap:platform="winphone"   gap:role="background" />
+
+    <icon src="images/icon/icon-72-2x.png"         gap:platform="ios"        width="144" height="144" />
+    <icon src="images/icon/icon-72-2x.png"         gap:platform="ios"        width="144" height="144" />
+    <icon src="images/icon/icon-72-2x.png"         gap:platform="ios"        width="144" height="144" />
+
+    <icon src="images/icon/icon-152.png" gap:platform="ios"  width="152" height="152" />
+    <icon src="images/icon/icon-76.png"  gap:platform="ios"  width="76" height="76" />
+    <icon src="images/icon/icon-120.png" gap:platform="ios"  width="120" height="120" />
 
     <icon src="images/icon/icon-72-2x.png" platform="ios" width="59" height="59" density="mdpi" />
 
